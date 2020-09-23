@@ -7,6 +7,11 @@
 /practice2/dataset
 /14/YOLOv3_TensorFlow
 /17/text8.zip
-
+/23/notMNIST.pickle
+/23/cifar-10-batches-py.zip
+/24/imagenet-vgg-verydeep-16.mat
+/practice5/notMNIST.pickle
+/practice5/cifar-10-batches-py/*
+/practice6/cifar-10-batches-py/*
 
 
